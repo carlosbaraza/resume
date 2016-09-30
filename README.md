@@ -136,9 +136,10 @@ currently present in 2 universities and has more than 50 active members.
 
 # EDUCATION
 
-## Automation and Industrial Electronics Engineering (BAC +4 / Bachelor / Degree)
+## Industrial Electronics and Automation Engineering
 ### University of Castilla-La Mancha, Albacete (Spain), 2009 to 2013
-* Studied (among others) Electrical Engineering, software development (C, C++,
+* 4 year degree.
+* Studied (among others): electrical engineering, software development (C, C++,
   Java (J2EE), Assembly), embedded systems, microcontrollers, microprocessors,
   RISC, CISC, sensors, IoT, calculus, algebra, physics, control theory,
   robotics.
