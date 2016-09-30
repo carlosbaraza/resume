@@ -1,7 +1,7 @@
 # Carlos Baraza
 ## Full Stack Engineer (JavaScript)
 
-**Phone:** +33 7 81 85 36 59
+**Phone:** +447447800747
 
 **Email:** carlos.baraza@ieee.org
 
@@ -9,34 +9,75 @@
 
 [LinkedIn](https://ie.linkedin.com/pub/carlos-baraza-haro/40/46/2b/en)
 
-[Github (not too far ;))](https://github.com/carlosbaraza)
+[Github](https://github.com/carlosbaraza)
 
 # SKILLS
 
-* **FULL STACK:** I seriously love web and programming.
-* **ECMASCRIPT:** Vanilla JS, ES6 / ES2015, Node.JS, Isomorphic JavaScript,
-  Functional JavaScript, Object Oriented JavaScript, CoffeeScript
-* **FRONT-END LIBRARIES:** Underscore.js / Lodash.js, Ramda.js, jQuery
-* **MV* FRAMEWORKS:** React, Angular, Ember, Meteor
-* **SERVER-SIDE:** Node.js, Meteor, Express.js, Ruby on Rails, Django (Python).
-  RESTful APIs
-* **INFRASTRUCTURE:** Docker, Kubernetes, CoreOS, Vagrant, PaaS. Apache, Nginx.
-  Google Cloud Platform, AWS. GNU/Linux
-* **SOURCE CONTROL SYSTEMS:** Git, GitHub, GitLab, Bitbucket, SVN
-* **DATABASE:** SQL, Postgres (PSQL), MySQL, NoSQL, MongoDB, CouchDB
+* **FULL STACK:** I love web development in its entirety.
+* **ECMASCRIPT:** Vanilla JS, ES6 / ES2015 / and beyond, Node.JS,
+  Isomorphic JavaScript, Functional JavaScript,
+  Object Oriented JavaScript, CoffeeScript.
+* **FRONT-END LIBRARIES:** Underscore.js (prefer Lodash.js), Ramda.js, jQuery.
+* **MV* FRAMEWORKS:** React, Angular, Ember, Meteor (Blaze).
+* **BACKEND:** Node.js, Meteor, Express.js, Ruby on Rails, Django (Python).
+  RESTful APIs.
+* **INFRASTRUCTURE/DEVOPS:** GNU/Linux, AWS, Modulus.IO, Apache, Nginx,
+  Docker, Kubernetes, CoreOS, Vagrant, PaaS, Meteor Galaxy,
+  Google Cloud Platform.
+* **SOURCE CONTROL SYSTEMS:** Git (GitHub, GitLab, Bitbucket), SVN.
+* **DATABASE:** SQL, Postgres (PSQL), MySQL, NoSQL, MongoDB.
 * **HTML5 & friends:** Semantic HTML, Offline & Storage, WebGL, SVG, Canvas,
-  new elements, device access, web sockets, web workers, CSS3
+  new elements, device access, web sockets, web workers, CSS3, new web APIs
+  like audio.
 * **DESIGN:** UX design, UI design, appealing web user interfaces, keen eye for
-  detail, web components, Bootstrap, Foundation. Entire Adobe CC.
-* **AGILE PRINCIPLES:** Agile and Scrum experience. Jira
+  detail, web components, Bootstrap, Foundation, Material Design,
+  CSS3 animations, advanced in entire Adobe CC suite.
+* **AGILE PRINCIPLES:** Agile and Scrum experience, Jira,
+  grooming sessions, standups, retrospectives, planning poker,
+  story pointing.
+* **LINE MANAGING:** Experience managing a team of 5 engineers.
 
 
 # EXPERIENCE
 
-## Kneip S.A., Luxembourg, 03/2014 - present
+## Hire Space, London, 03/2016 - present
+### Senior Software Engineer (Head of development)
+hirespace.com is the UK's leading venue marketplace. Our business model is
+similar to Airbnb, with the difference that we advertise venues, instead of
+apartments.
+* Lead Engineer and line manager in an Agile team of 5 engineers,
+  two product managers and one QA Specialist.
+* 500+ commits in a back office application used to manage our bookings
+  and our customer base. The web application is built using Meteor (Node),
+  Blaze and React.
+* Developed the referral, rewards and promo schemas; and integrated them with
+  all our systems. These features brought more than 150 new enquiries.
+* Developed multiple features for hirespace.com, and venues.hirespace.com
+  (admin section for venue managers). Both built using ASP.NET and Angular.JS.
+* As a full stack engineer I have done a lot of dev ops: set up automated builds
+  for multiple projects in Team City, migrated entire production to a more
+  stable provider, set up new deployment scripts, configured DNSs,
+  configured servers, configured cron jobs, improved email deliverability
+  migrating to Amazon SES (between other changes).
+* Developed a venue proposal application using React + Meteor. A salesman would
+  select venues from our data base and prepare an interactive proposal
+  for the customer. The customer would interact with sales through
+  the proposal application, providing feedback until finally she books a
+  venues with us.
+* Contributed to creating a very united team of engineers. We have
+  all become really good friends, meeting out of office hours
+  for events, meetups, dinner, arcades, etc.
+* Completely changed the engineering process: reconfigured Jira for an
+  improved workflow and better reports, introduced systematic standups,
+  grooming sessions, planning, retrospectives and realistic sprints.
+  These changes boosted team performance and most importantly,
+  team happiness; because at the end of the sprints, we felt that we
+  had accomplished the goals we had for the sprint.
+
+## Kneip S.A., Luxembourg, 03/2014 - 03/2016
 ### Software Engineer
-Kneip is one of the fund data management leaders. We currently have 300
-employees. We provide software solutions and support for fund managers.
+Kneip is one of the fund data management leaders. Kneip has 300
+employees. It provides software solutions and support for fund managers.
 * Developed features for AIFMD regulation in Fundlook. These features were
   sold for millions of euros to our clients.
 * Developed or maintained internal JavaScript (Node.JS, Express.JS and
@@ -70,22 +111,13 @@ employees. We provide software solutions and support for fund managers.
 * I love freelancing to help people with their projects. This is great for my
   experience because I get to contribute to many different codebases.
 
-## Telefonica O2, London, UK, 09/2013, 08/2012
-### Networks and technology volunteer
-Campus Party Europe 2012 in Berlin and Campus Party Europe 2013 in London are
-high technology events for coders and hackers.
-* Recruitment and organization of an eight-member team from various
-  universities.
-* Set up a part of the local area network.
-* Supported participants with technical issues during the event.
-
 ## Qubic.es, Albacete, Spain, 2012 - present
 ### Founder
-Qubic.es is a student association/start-up promoting autodidacticism. It is
+Qubic.es is a student association/start-up promoting self-teaching. It is
 currently present in 2 universities and has more than 50 active members.
-* Organized workshops and talks on various technical topics: Arduino, open
-source robotics, quadcopters, entrepreneurship and others.
-* Contributed to the organization of ForoUSA.es, an event created to
+* Organised workshops and talks on various technical topics: Arduino, open
+  source robotics, quadcopters, entrepreneurship and others.
+* Contributed to the organisation of ForoUSA.es, an event created to
   promote the American entrepreneurship in Spain. We brought important
   American/Spanish entrepreneurs who had experience in USA to talk to students
   about the benefits of continuing their career in USA. We had a partnership
@@ -93,24 +125,13 @@ source robotics, quadcopters, entrepreneurship and others.
 
 ## IEEE Student Branch, Albacete, Spain, 2009 - present
 ### President, treasurer and member
-* Organized multiple technical talks and workshops: Arduino,
+* Organised multiple technical talks and workshops: Arduino,
   Internet of Things (IoT), HTML5, emerging technologies and others.
 * Represented my university in multiple Spanish and European IEEE congresses:
   Region 8 IEEE SBC Madrid 2012, IEEE CNR 2011, IEEE ISBC 2011, IEEE CNR 2013.
 
 
 # EDUCATION
-
-## Internet, 1997 - present
-### Software Development
-As a digital native, I have always been learning online. I consider Internet
-as the source of most of my knowledge and that is the reason why I list it
-here.
-* StackOverflow, GitHub, podcasts, meetups, Gitter, IRC, forums, blogs,
-  CodeSchool, EventedMind, FrontendMasters, Coursera, edX, ocw.MIT.edu,
-  HarvardX, Udemy, etc.
-* Application development across multiple platforms including web, mobile,
-  browser and desktop.
 
 ## University of Castilla-La Mancha, Albacete (Spain), 2009 - 2013
 ### Automation and Industrial Electronics Engineering (BAC +4 / Bachelor / Degree)
@@ -129,6 +150,17 @@ here.
   applied to robotics and embedded systems.
 * Built a flying robot controlled via a Django web application (Python): Air
   Fish Bowl (https://youtu.be/KqrJAN3hXBI).
+
+## Internet, 1997 - present
+### Software Development
+As a digital native, I have always been learning online. I consider Internet
+the source of most of my knowledge, and for that reason I list it
+here.
+* StackOverflow, GitHub, podcasts, meetups, Gitter, IRC, forums, blogs,
+  CodeSchool, EventedMind, FrontendMasters, Coursera, edX, ocw.MIT.edu,
+  HarvardX, Udemy, etc.
+* Application development across multiple platforms including web, mobile,
+  browser, desktop and embedded.
 
 
 # LANGUAGES
