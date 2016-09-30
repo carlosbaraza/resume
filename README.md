@@ -1,6 +1,8 @@
 # Carlos Baraza
 ## Full Stack Engineer (JavaScript)
 
+**Location:** London, UK
+
 **Phone:** +447447800747
 
 **Email:** carlos.baraza@ieee.org
@@ -11,7 +13,8 @@
 
 [Github](https://github.com/carlosbaraza)
 
-# SKILLS
+
+# SUMMARY
 
 * **FULL STACK:** I love web development in its entirety.
 * **ECMASCRIPT:** Vanilla JS, ES6 / ES2015 / and beyond, Node.JS,
@@ -40,9 +43,9 @@
 
 # EXPERIENCE
 
-## Hire Space, London, 03/2016 - present
-### Senior Software Engineer (Head of development)
-hirespace.com is the UK's leading venue marketplace. Our business model is
+## Senior Software Engineer (Head of development)
+### Hire Space, London, 03/2016 to present
+HireSpace.com is the UK's leading venue marketplace. Our business model is
 similar to Airbnb, with the difference that we advertise venues, instead of
 apartments.
 * Lead Engineer and line manager in an Agile team of 5 engineers,
@@ -74,8 +77,8 @@ apartments.
   team happiness; because at the end of the sprints, we felt that we
   had accomplished the goals we had for the sprint.
 
-## Kneip S.A., Luxembourg, 03/2014 - 03/2016
-### Software Engineer
+## Software Engineer
+### Kneip S.A., Luxembourg, 03/2014 to 03/2016
 Kneip is one of the fund data management leaders. Kneip has 300
 employees. It provides software solutions and support for fund managers.
 * Developed features for AIFMD regulation in Fundlook. These features were
@@ -102,8 +105,8 @@ employees. It provides software solutions and support for fund managers.
 * Applied UX design principles to deliver appealing web user interfaces. User
   experience was always the priority during the development.
 
-## Open Source Projects / Freelance, GitHub, 2011 - present
-### JavaScript Engineer
+## JavaScript Engineer
+### Open Source Projects / Freelance, GitHub, 2011 to present
 * https://github.com/carlosbaraza
 * I contribute to the community and I always promote Open Source. As soon as
   I have some spare time, I spend it contributing to projects or reading my
@@ -111,8 +114,8 @@ employees. It provides software solutions and support for fund managers.
 * I love freelancing to help people with their projects. This is great for my
   experience because I get to contribute to many different codebases.
 
-## Qubic.es, Albacete, Spain, 2012 - present
-### Founder
+## Founder
+### Qubic.es, Albacete (Spain), 2012 to present
 Qubic.es is a student association/start-up promoting self-teaching. It is
 currently present in 2 universities and has more than 50 active members.
 * Organised workshops and talks on various technical topics: Arduino, open
@@ -123,8 +126,8 @@ currently present in 2 universities and has more than 50 active members.
   about the benefits of continuing their career in USA. We had a partnership
   with the American embassy.
 
-## IEEE Student Branch, Albacete, Spain, 2009 - present
-### President, treasurer and member
+## Chairman, treasurer and member
+### IEEE Student Branch, Albacete (Spain), 2009 to present
 * Organised multiple technical talks and workshops: Arduino,
   Internet of Things (IoT), HTML5, emerging technologies and others.
 * Represented my university in multiple Spanish and European IEEE congresses:
@@ -133,8 +136,8 @@ currently present in 2 universities and has more than 50 active members.
 
 # EDUCATION
 
-## University of Castilla-La Mancha, Albacete (Spain), 2009 - 2013
-### Automation and Industrial Electronics Engineering (BAC +4 / Bachelor / Degree)
+## Automation and Industrial Electronics Engineering (BAC +4 / Bachelor / Degree)
+### University of Castilla-La Mancha, Albacete (Spain), 2009 to 2013
 * Studied (among others) Electrical Engineering, software development (C, C++,
   Java (J2EE), Assembly), embedded systems, microcontrollers, microprocessors,
   RISC, CISC, sensors, IoT, calculus, algebra, physics, control theory,
@@ -143,16 +146,16 @@ currently present in 2 universities and has more than 50 active members.
   (https://youtu.be/fa7GwwA3498).
 * Built a quadcopter: Quadruino (https://youtu.be/mw_cfODdlQY).
 
-## Waterford Institute of Technology (WIT), Ireland, 2012 - 2013
-### Web development
+## Web development
+### Waterford Institute of Technology (WIT), Ireland, 2012 to 2013
 * Scholarship recipient.
 * Studied Ruby on Rails development, Internet of things, web development
   applied to robotics and embedded systems.
 * Built a flying robot controlled via a Django web application (Python): Air
   Fish Bowl (https://youtu.be/KqrJAN3hXBI).
 
-## Internet, 1997 - present
-### Software Development
+## Software Development
+### Internet, 1997 to present
 As a digital native, I have always been learning online. I consider Internet
 the source of most of my knowledge, and for that reason I list it
 here.
