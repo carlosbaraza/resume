@@ -24,6 +24,9 @@
 * **MV* FRAMEWORKS:** React, Angular, Ember, Meteor (Blaze).
 * **BACKEND:** Node.js, Meteor, Express.js, Ruby on Rails, Django (Python).
   RESTful APIs.
+* **TEST AUTOMATION:** Mocha, Chai, Jasmine, Karma, Webdriver/Selenium,
+  Cucumber, RSpec.
+* **TASK AUTOMATION:** Gulp, Grunt, Webpack, Rake, Bash/Node/Ruby/Python scripts.
 * **INFRASTRUCTURE/DEVOPS:** GNU/Linux, AWS, Modulus.IO, Apache, Nginx,
   Docker, Kubernetes, CoreOS, Vagrant, PaaS, Meteor Galaxy,
   Google Cloud Platform.
