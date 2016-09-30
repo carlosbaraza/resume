@@ -1,41 +1,41 @@
 # Carlos Baraza
 ## Full Stack Engineer (JavaScript)
-* **Location:** London, UK
-* **Phone:** +447447800747
-* **Email:** carlos.baraza@ieee.org
-* **[www.carlosbaraza.com](http://www.carlosbaraza.com)**
+* London, UK
+* +447447800747
+* carlos.baraza@ieee.org
+* [www.carlosbaraza.com](http://www.carlosbaraza.com)
 * [LinkedIn](https://ie.linkedin.com/pub/carlos-baraza-haro/40/46/2b/en)
 * [Github](https://github.com/carlosbaraza)
 
 
 # SUMMARY
 
-* **FULL STACK:** I love web development in its entirety.
-* **ECMASCRIPT:** Vanilla JS, ES6 / ES2015 / and beyond, Node.JS,
+* FULL STACK: I love web development in its entirety.
+* ECMASCRIPT: Vanilla JS, ES6 / ES2015 / and beyond, Node.JS,
   Isomorphic JavaScript, Functional JavaScript,
   Object Oriented JavaScript, CoffeeScript.
-* **FRONT-END LIBRARIES:** Underscore.js (prefer Lodash.js), Ramda.js, jQuery.
-* **MV* FRAMEWORKS:** React, Angular, Ember, Meteor (Blaze).
-* **BACKEND:** Node.js, Meteor, Express.js, Ruby on Rails, Django (Python).
+* FRONT-END LIBRARIES: Underscore.js (prefer Lodash.js), Ramda.js, jQuery.
+* MV* FRAMEWORKS: React, Angular, Ember, Meteor (Blaze).
+* BACKEND: Node.js, Meteor, Express.js, Ruby on Rails, Django (Python).
   RESTful APIs.
-* **TEST AUTOMATION:** Mocha, Chai, Jasmine, Karma, Webdriver/Selenium,
+* TEST AUTOMATION: Mocha, Chai, Jasmine, Karma, Webdriver/Selenium,
   Cucumber, RSpec.
-* **TASK AUTOMATION:** Gulp, Grunt, Webpack, Rake, Bash/Node/Ruby/Python scripts.
-* **INFRASTRUCTURE/DEVOPS:** GNU/Linux, AWS, Modulus.IO, Apache, Nginx,
+* TASK AUTOMATION: Gulp, Grunt, Webpack, Rake, Bash/Node/Ruby/Python scripts.
+* INFRASTRUCTURE/DEVOPS: GNU/Linux, AWS, Modulus.IO, Apache, Nginx,
   Docker, Kubernetes, CoreOS, Vagrant, PaaS, Meteor Galaxy,
   Google Cloud Platform.
-* **SOURCE CONTROL SYSTEMS:** Git (GitHub, GitLab, Bitbucket), SVN.
-* **DATABASE:** SQL, Postgres (PSQL), MySQL, NoSQL, MongoDB.
-* **HTML5 & friends:** Semantic HTML, Offline & Storage, WebGL, SVG, Canvas,
+* SOURCE CONTROL SYSTEMS: Git (GitHub, GitLab, Bitbucket), SVN.
+* DATABASE: SQL, Postgres (PSQL), MySQL, NoSQL, MongoDB.
+* HTML5 & friends: Semantic HTML, Offline & Storage, WebGL, SVG, Canvas,
   new elements, device access, web sockets, web workers, CSS3, new web APIs
   like audio.
-* **DESIGN:** UX design, UI design, appealing web user interfaces, keen eye for
+* DESIGN: UX design, UI design, appealing web user interfaces, keen eye for
   detail, web components, Bootstrap, Foundation, Material Design,
   CSS3 animations, advanced in entire Adobe CC suite.
-* **AGILE PRINCIPLES:** Agile and Scrum experience, Jira,
+* AGILE PRINCIPLES: Agile and Scrum experience, Jira,
   grooming sessions, standups, retrospectives, planning poker,
   story pointing.
-* **LINE MANAGING:** Experience managing a team of 5 engineers.
+* LINE MANAGING: Experience managing a team of 5 engineers.
 
 
 # EXPERIENCE
