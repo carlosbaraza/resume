@@ -1,17 +1,11 @@
 # Carlos Baraza
 ## Full Stack Engineer (JavaScript)
-
-**Location:** London, UK
-
-**Phone:** +447447800747
-
-**Email:** carlos.baraza@ieee.org
-
-**[www.carlosbaraza.com](http://www.carlosbaraza.com)**
-
-[LinkedIn](https://ie.linkedin.com/pub/carlos-baraza-haro/40/46/2b/en)
-
-[Github](https://github.com/carlosbaraza)
+- **Location:** London, UK
+- **Phone:** +447447800747
+- **Email:** carlos.baraza@ieee.org
+- **[www.carlosbaraza.com](http://www.carlosbaraza.com)**
+- [LinkedIn](https://ie.linkedin.com/pub/carlos-baraza-haro/40/46/2b/en)
+- [Github](https://github.com/carlosbaraza)
 
 
 # SUMMARY
