@@ -42,9 +42,9 @@
 
 ## Senior Software Engineer (Head of development)
 ### Hire Space, London, 04/2016 to present
-HireSpace.com is the UK's leading venue marketplace. Our business model
-is similar to Airbnb, with the difference that we advertise venues,
-instead of apartments.
+* HireSpace.com is the UK's leading venue marketplace. Our business model
+  is similar to Airbnb, with the difference that we advertise venues,
+  instead of apartments.
 * Lead Engineer and line manager in an Agile team of 5 engineers,
   closely working with two product managers and one QA Specialist.
 * 300+ commits in a back office application used to manage
@@ -79,8 +79,8 @@ instead of apartments.
 
 ## Software Engineer
 ### Kneip S.A., Luxembourg, 03/2014 to 03/2016
-Kneip is one of the fund data management leaders. Kneip has 300
-employees. It provides software solutions and support for fund managers.
+* Kneip is one of the fund data management leaders. Kneip has 300
+  employees. It provides software solutions and support for fund managers.
 * Developed features for AIFMD regulation in Fundlook. These features were
   sold for millions of euros to our clients.
 * Developed or maintained internal JavaScript (Node.JS, Express.JS and
@@ -116,8 +116,8 @@ employees. It provides software solutions and support for fund managers.
 
 ## Founder
 ### Qubic.es, Albacete (Spain), 2012 to present
-Qubic.es is a student association/start-up promoting self-teaching. It is
-currently present in 2 universities and has more than 50 active members.
+* Qubic.es is a student association/start-up promoting self-teaching. It is
+  currently present in 2 universities and has more than 50 active members.
 * Organised workshops and talks on various technical topics: Arduino, open
   source robotics, quadcopters, entrepreneurship and others.
 * Contributed to the organisation of ForoUSA.es, an event created to
@@ -157,9 +157,9 @@ currently present in 2 universities and has more than 50 active members.
 
 ## Software Development
 ### Internet, 1997 to present
-As a digital native, I have always been learning online. I consider Internet
-the source of most of my knowledge, and for that reason I list it
-here.
+* As a digital native, I have always been learning online. I consider Internet
+  the source of most of my knowledge, and for that reason I list it
+  here.
 * StackOverflow, GitHub, podcasts, meetups, Gitter, IRC, forums, blogs,
   CodeSchool, EventedMind, FrontendMasters, Coursera, edX, ocw.MIT.edu,
   HarvardX, Udemy, etc.
